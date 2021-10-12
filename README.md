@@ -15,7 +15,7 @@
   <img align="center" alt="Mi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Mi-stitch" src="https://media.giphy.com/media/11TyfGbDbBv4be/giphy.gif">
+  <img align="right" alt="Mi-stitch" src="">
   
 </div>
   
