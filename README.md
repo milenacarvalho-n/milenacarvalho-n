@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Milena Carvalho 👋
 
-- 🔭 Hoje estou em transição de carreira para a área de tecnologia com o foco em Front-end
+- 🔭 Entusiasta da área de tecnologia  e estudante com o foco em Front-end
 - 🌱 Estudando Javascript, HTML e CSS
 - 📫 Contate-me no e-mail: nascarvalho.m@gmail.com
 - 😄 Pronomes: ela/dela
