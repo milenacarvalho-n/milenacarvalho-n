@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milena Carvalho 👋
 
 - 🔭 Entusiasta da área de tecnologia  e estudante com o foco em Front-end
-- 🌱 Estudando Javascript, ReactJS.
+- 🌱 Estudando ReactJS.
 - 📫 Contate-me no e-mail: nascarvalho.m@gmail.com
 - 😄 Pronomes: ela/dela
 
