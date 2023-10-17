@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Milena Carvalho 👋
 
-- 🔭 Entusiasta da área de tecnologia  e estudante com o foco em Front-end
-- 🌱 Estudando ReactJS.
+- 🔭 Entusiasta da área de tecnologia  e estudante com o foco em Backend
+- 🌱 Atualmente atuo em um projeto como Backend, utilizando as seguintes tecnologias e recursos: NestJs, mongoDb, Azure Devops, Mocha, Chai, Postman.
 - 📫 Contate-me no e-mail: nascarvalho.m@gmail.com
 - 😄 Pronomes: ela/dela
 
